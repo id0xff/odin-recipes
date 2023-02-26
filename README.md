@@ -6,3 +6,5 @@ By the end of the project, I will have demonstrated HTML skills such as:
 – working with text;
 – working with links and images.
 And, of course, working with Git and GitHub.
+
+The idea and all the recipes were taken from https://www.allrecipes.com/longform/best-brownies-review/
